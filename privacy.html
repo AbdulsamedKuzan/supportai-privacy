@@ -1,285 +1,303 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Support AI™ - Gizlilik Politikası</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-            Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-            background: #0f0f0f;
-            color: #f2f2f2;
-            line-height: 1.7;
-            padding: 0;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Support AI™ - Gizlilik Politikası</title>
 
-        .container {
-            max-width: 900px;
-            margin: auto;
-            padding: 30px 20px;
-        }
+<style>
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #ffffff;
+    color: #000000;
+    line-height: 1.8;
+}
 
-        h1, h2, h3 {
-            font-weight: 700;
-        }
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 25px;
+}
 
-        h1 {
-            font-size: 32px;
-            margin-bottom: 20px;
-            text-align: center;
-        }
+h1 {
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 10px;
+}
 
-        h2 {
-            margin-top: 40px;
-            font-size: 24px;
-            color: #3ea6ff;
-        }
+h2 {
+    margin-top: 55px;
+    font-size: 24px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 8px;
+}
 
-        a {
-            color: #3ea6ff;
-        }
+p {
+    margin: 14px 0;
+    font-size: 16px;
+}
 
-        p {
-            margin: 12px 0;
-            font-size: 16px;
-        }
+.section {
+    margin-bottom: 35px;
+}
 
-        .section {
-            margin-bottom: 30px;
-        }
-
-        .footer {
-            margin-top: 60px;
-            text-align: center;
-            font-size: 14px;
-            opacity: 0.7;
-        }
-
-        .logo {
-            display: block;
-            margin: 0 auto 30px auto;
-            width: 90px;
-            opacity: 0.9;
-        }
-
-        @media (prefers-color-scheme: light) {
-            body {
-                background: #ffffff;
-                color: #1a1a1a;
-            }
-            h2 {
-                color: #0066cc;
-            }
-            .footer {
-                color: #333;
-            }
-        }
-    </style>
+.footer {
+    margin-top: 80px;
+    text-align: center;
+    font-size: 14px;
+    border-top: 1px solid #000;
+    padding-top: 20px;
+}
+</style>
 </head>
-<body>
 
+<body>
 <div class="container">
 
-    
+<h1>Support AI™ – Gizlilik ve Güvenlik Politikası</h1>
 
-    <h1>Support AI™ – Gizlilik Politikası</h1>
-
-    <div class="section">
-        <p><strong>Son Güncelleme:</strong> 26 Kasım 2025</p>
-        <p>
-            Support AI™ olarak gizliliğinize büyük önem veriyoruz. Bu Gizlilik Politikası,
-            uygulamamızı kullanırken hangi verilerin toplandığını, nasıl işlendiğini,
-            nerede saklandığını ve hangi durumlarda paylaşıldığını açıklar.
-        </p>
-    </div>
-
-    <p>Support AI™ kullanıcılarının kişisel verilerini korumayı temel bir sorumluluk olarak kabul eder. Bu politika; Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR), Türkiye Kişisel Verilerin Korunması Kanunu (KVKK) ve global gizlilik standartlarına uygun şekilde hazırlanmıştır. Uygulamayı kullanmaya devam ederek bu politikadaki şartları kabul etmiş olursunuz.</p>
-
-    <h2>1. Toplanan Veriler</h2>
-    <div class="section">
-        <p><strong>1.1. Hesap Bilgileri:</strong> E-posta adresi, profil fotoğrafı (opsiyonel).</p>
-        <p><strong>1.2. Mesaj ve Etkileşim Verileri:</strong> Yazılı mesajlar, chat geçmişi, AI yönlendirme kayıtları.</p>
-        <p><strong>1.3. Medya Verileri:</strong> Yüklenen fotoğraflar, PDF’ler, belgeler ve oluşturulan içerikler.</p>
-        <p><strong>1.4. Ses Verileri:</strong> Mikrofon izinli ses girişleri (yalnızca işleme amacıyla).</p>
-        <p><strong>1.5. Teknik Veriler:</strong> Cihaz modeli, işletim sistemi, IP, kullanım istatistikleri.</p>
-        <p><strong>1.6. Üçüncü Taraf Verileri:</strong> OpenAI, Google Gemini, DeepSeek, Firebase, HuggingFace, ElevenLabs.</p>
-    </div>
-
-    <p>Ayrıca Support AI, kullanıcı davranışlarını analiz etmek amacıyla anonimleştirilmiş veri toplamaktadır. Bu veriler uygulama performansını artırmak ve hizmet kalitesini geliştirmek için kullanılır. Hiçbir anonim veri, kullanıcıyı tanımlayacak şekilde geri döndürülemez.</p>
-
-    <h2>2. Verilerin Kullanım Amaçları</h2>
-    <div class="section">
-        <p>• Yapay zekâ yanıtları oluşturmak</p>
-        <p>• Görsel ve PDF analizi yapmak</p>
-        <p>• Premium abonelik işlemlerini yönetmek</p>
-        <p>• Güvenlik ve kötüye kullanım tespiti</p>
-        <p>• Chat deneyimini iyileştirmek</p>
-    </div>
-
-    <p>Toplanan tüm veriler yalnızca belirtilen amaçlar doğrultusunda işlenir ve kullanıcı deneyimini geliştirmek için minimum düzeyde tutulur. Support AI, gereksiz veya fazlalık oluşturan hiçbir veriyi depolamaz.</p>
-
-    <h2>3. Verilerin Saklanması</h2>
-    <div class="section">
-        <p>• Mesajlar: Firebase Realtime Database / Firestore</p>
-        <p>• Dosyalar: Firebase Storage</p>
-        <p>• Ses verileri: İşlendikten sonra silinir</p>
-        <p>• Premium ve kota verileri: Firestore</p>
-    </div>
-
-    <p>Bunun yanında Support AI, kullanıcıya ait verilerin üçüncü taraflarla paylaşımını yalnızca açık rıza, sözleşmesel gereklilik veya yasal zorunluluk çerçevesinde gerçekleştirir. Kullanıcının açık izni olmadan ticari amaçlarla veri paylaşımı yapılmaz.</p>
-
-    <h2>4. Veri Paylaşımı</h2>
-    <div class="section">
-        <p>Support AI verilerinizi <strong>kesinlikle satmaz veya reklam amacıyla paylaşmaz.</strong></p>
-        <p>Aşağıdaki teknik servislerle sınırlı şekilde paylaşım gerçekleşebilir:</p>
-        <p>• OpenAI, Google Gemini, DeepSeek</p>
-        <p>• Firebase altyapısı</p>
-        <p>• ElevenLabs (ses işleme)</p>
-        <p>• HuggingFace (görsel/PDF analizi)</p>
-        <p>• Yasal zorunluluklar</p>
-    </div>
-
-    <p>Support AI altyapısı, verileri hem aktarım sırasında hem de depolama aşamasında güçlü şifreleme yöntemleriyle korur. Gelişmiş saldırı tespit sistemleri ve veri bütünlüğü kontrol mekanizmalarıyla kullanıcı bilgileri güvence altındadır.</p>
-
-    <h2>5. Güvenlik</h2>
-    <div class="section">
-        <p>
-            Veriler SSL/TLS ile şifrelenmiş bağlantılar üzerinden aktarılır.
-            Firebase Security Rules, erişim kontrol sistemleri ve saldırı önleme
-            mekanizmaları kullanılmaktadır.
-        </p>
-    </div>
-
-    <p>Ayrıca kullanıcılar, KVKK ve GDPR kapsamındaki tüm haklara sahiptir: Unutulma hakkı, veri taşınabilirliği, veri işleme kısıtlama hakkı, veri erişim hakkı ve daha fazlası. Support AI bu talepleri en geç 30 gün içinde sonuçlandırmayı taahhüt eder.</p>
-
-    <h2>6. Kullanıcı Hakları</h2>
-    <div class="section">
-        <p>• Verilerinizi silme</p>
-        <p>• Hesabı kapatma</p>
-        <p>• Mesaj geçmişini temizleme</p>
-        <p>• Dosyaları kaldırma</p>
-        <p>• Aboneliği sonlandırma</p>
-        <p>İletişim: <a href="mailto:support@supportai.com.tr">support@supportai.com.tr</a></p>
-    </div>
-
-    <h2>7. Çocukların Gizliliği</h2>
-    <div class="section">
-        <p>Uygulama 13 yaş altı çocuklara yönelik değildir ve bilerek veri toplamaz.</p>
-    </div>
-
-    <h2>8. Politika Güncellemeleri</h2>
-    <div class="section">
-        <p>
-            Gizlilik Politikası zaman zaman güncellenebilir.
-            Güncellemeler bu sayfa üzerinden duyurulur.
-        </p>
-    </div>
-
-    <div class="footer">
-        © 2025 Support AI™ — Tüm Hakları Saklıdır.
-    </div>
-
+<div class="section">
+<p><strong>Son Güncelleme:</strong> 23 Şubat 2026</p>
+<p>
+Bu Gizlilik ve Güvenlik Politikası, Support AI™ mobil uygulamaları (iOS ve Android) ile web platformunun kullanımına ilişkin veri işleme esaslarını düzenler. Uygulamayı kullanarak bu politika hükümlerini okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan etmiş olursunuz.
+</p>
 </div>
 
-<!-- ===================== ENGLISH VERSION ===================== -->
-<div class="container" style="margin-top: 80px;">
+<p>
+Support AI™, kullanıcı verilerinin korunmasını temel ilke olarak benimser ve GDPR, KVKK ve uluslararası veri güvenliği standartlarına uygun şekilde faaliyet göstermeyi taahhüt eder.
+</p>
 
-    <h1>Support AI™ – Privacy Policy (English)</h1>
+<h2>1. Toplanan Veriler</h2>
 
-    <div class="section">
-        <p><strong>Last Updated:</strong> November 26, 2025</p>
-        <p>
-            Support AI™ is committed to protecting your privacy. This Privacy Policy explains what information we collect,
-            how we use it, how it is stored, and under which circumstances it may be shared.
-        </p>
-    </div>
+<p>
+Platform veri minimizasyonu prensibini benimser. Yalnızca hizmetin çalışması için gerekli bilgiler saklanır:
+</p>
 
-    <p>Support AI™ adheres to internationally recognized privacy standards, including the General Data Protection Regulation (GDPR) and applicable data protection laws. By using Support AI, you agree to the terms of this Privacy Policy.</p>
+<p>
+– E-posta adresi (hesap doğrulama için)<br>
+– Kullanıcı tarafından oluşturulan sohbet geçmişi<br>
+– Kullanıcının isteğe bağlı olarak girdiği isim ve telefon numarası
+</p>
 
-    <h2>1. Information We Collect</h2>
-    <div class="section">
-        <p><strong>1.1. Account Information:</strong> Email address, optional profile photo.</p>
-        <p><strong>1.2. Messages & Interaction Data:</strong> Text messages, chat history, AI routing logs.</p>
-        <p><strong>1.3. Media Files:</strong> Uploaded images, PDFs, documents, and generated content.</p>
-        <p><strong>1.4. Voice Data:</strong> Microphone-based audio input (only for processing).</p>
-        <p><strong>1.5. Technical Information:</strong> Device model, operating system, IP address, crash logs, analytics data.</p>
-        <p><strong>1.6. Third‑Party Service Data:</strong> OpenAI, Google Gemini, DeepSeek, Firebase, HuggingFace, ElevenLabs.</p>
-    </div>
+<p>
+Ek profil oluşturma veya gereksiz veri toplama yapılmaz.
+</p>
 
-    <p>Support AI may also collect anonymized analytics data used exclusively to improve performance and user experience. This data cannot be used to personally identify any user.</p>
+<h2>2. Verilerin Kullanım Amaçları</h2>
 
-    <h2>2. How We Use Your Information</h2>
-    <div class="section">
-        <p>• To generate AI-powered responses</p>
-        <p>• To analyze images, documents, and PDFs</p>
-        <p>• To manage premium subscriptions and billing</p>
-        <p>• To improve stability, speed, and usability</p>
-        <p>• To maintain service security and prevent abuse</p>
-    </div>
+<p>
+Veriler aşağıdaki amaçlarla işlenir:
+</p>
 
-    <p>All collected data is processed strictly for intended purposes and kept to a minimum required level. Support AI does not store unnecessary or unused data.</p>
+<p>
+– Yapay zekâ yanıtlarının oluşturulması<br>
+– Sohbet sürekliliği<br>
+– Premium üyelik ve kota yönetimi<br>
+– Kötüye kullanım ve sistem manipülasyonu tespiti<br>
+– Yasal yükümlülüklerin yerine getirilmesi
+</p>
 
-    <h2>3. Data Storage</h2>
-    <div class="section">
-        <p>• Messages: Firebase Realtime Database / Firestore</p>
-        <p>• Files: Firebase Storage</p>
-        <p>• Voice data: Deleted after processing</p>
-        <p>• Subscription & quota data: Firestore</p>
-    </div>
+<p>
+Veriler reklam veya üçüncü taraf ticari faaliyetler için kullanılmaz.
+</p>
 
-    <p>Support AI shares data only when required by explicit consent, contractual necessity, or legal obligation. No information is shared for advertising or commercial purposes.</p>
+<h2>3. Veri Saklama ve Güvenlik</h2>
 
-    <h2>4. Data Sharing</h2>
-    <div class="section">
-        <p>Support AI does <strong>not sell or monetize</strong> your personal data.</p>
-        <p>Limited technical sharing may occur with:</p>
-        <p>• OpenAI, Google Gemini, DeepSeek</p>
-        <p>• Firebase infrastructure</p>
-        <p>• ElevenLabs (speech processing)</p>
-        <p>• HuggingFace (image/PDF processing)</p>
-        <p>• Government authorities (when legally required)</p>
-    </div>
+<p>
+Veriler güvenli bulut altyapısında saklanır. Tüm veri iletimleri şifrelenmiş bağlantılar üzerinden gerçekleştirilir. Yetkisiz erişimi önlemek için erişim kontrol ve izleme sistemleri uygulanır.
+</p>
 
-    <p>Support AI uses industry‑grade encryption and security practices to protect user information. Data is secured during transmission and storage using advanced security mechanisms.</p>
+<p>
+Uygulanan önlemler:
+</p>
 
-    <h2>5. Security</h2>
-    <div class="section">
-        <p>
-            Data is transmitted using SSL/TLS encryption. Firebase Security Rules and access control systems ensure that
-            only authorized operations are permitted. Intrusion detection mechanisms and continuous monitoring are used
-            to prevent unauthorized access.
-        </p>
-    </div>
+<p>
+– Şifrelenmiş veri iletimi<br>
+– Yetkilendirilmiş erişim kontrolü<br>
+– Olağan dışı aktivite tespiti<br>
+– Veri bütünlüğü koruma sistemleri
+</p>
 
-    <p>Users have full GDPR and global privacy rights, including the right to access, delete, restrict processing, export data, and request account removal. Support AI commits to responding to privacy requests within 30 days.</p>
+<h2>4. Üçüncü Taraf Hizmetler</h2>
 
-    <h2>6. User Rights</h2>
-    <div class="section">
-        <p>• Right to delete your data</p>
-        <p>• Right to close your account</p>
-        <p>• Right to clear chat history</p>
-        <p>• Right to remove uploaded files</p>
-        <p>• Right to cancel subscriptions</p>
-        <p>Contact: <a href="mailto:support@supportai.com.tr">support@supportai.com.tr</a></p>
-    </div>
+<p>
+Yapay zekâ yanıtlarının üretimi için kullanıcı içeriği teknik gereklilik kapsamında ilgili sağlayıcılara iletilebilir. Bu iletim yalnızca talebin işlenmesi amacıyla yapılır.
+</p>
 
-    <h2>7. Children's Privacy</h2>
-    <div class="section">
-        <p>Support AI is not intended for children under 13 and does not knowingly collect data from minors.</p>
-    </div>
+<p>
+Support AI™ kullanıcı verilerini satmaz, kiralamaz veya ticari amaçla paylaşmaz.
+</p>
 
-    <h2>8. Policy Updates</h2>
-    <div class="section">
-        <p>Support AI may update this Privacy Policy periodically. Updates will be announced through this page.</p>
-    </div>
+<h2>5. Hukuka Aykırı Kullanım ve Fikri Mülkiyet</h2>
 
-    <div class="footer">
-        © 2025 Support AI™ — All Rights Reserved.
-    </div>
+<p>
+Kullanıcılar:
+</p>
 
+<p>
+– Platformu kopyalamamayı<br>
+– Tersine mühendislik yapmamayı<br>
+– Otomatik veri çekme girişiminde bulunmamayı<br>
+– Yasa dışı kullanım gerçekleştirmemeyi
+</p>
+
+<p>
+Bu fiillerin tespiti halinde, kayıtlı hesap bilgileri üzerinden hukuki süreç başlatılabilir. Hesap askıya alma, kalıcı kapatma ve ilgili mercilere başvuru dahil gerekli işlemler yapılabilir.
+</p>
+
+<h2>6. Kullanıcı Hakları</h2>
+
+<p>
+Kullanıcılar:
+</p>
+
+<p>
+– Hesap silme<br>
+– Sohbet geçmişi temizleme<br>
+– Veri erişim talebi<br>
+– İşleme iznini geri çekme
+</p>
+
+<h2>7. Veri Saklama Süresi</h2>
+
+<p>
+Veriler hizmet süresince saklanır. Hesap silme talebi sonrası aktif sistemlerden kaldırılır.
+</p>
+
+<h2>8. Politika Güncellemeleri</h2>
+
+<p>
+Politika zaman zaman güncellenebilir. Güncellemeler platform üzerinden duyurulur.
+</p>
+
+<h2>9. İletişim</h2>
+
+<p>
+Abdulsamed Kuzan<br>
+Telefon: +90 538 467 39 99<br>
+E-posta: abdulsamed1095@gmail.com
+</p>
+
+<div class="footer">
+© 2025–2026 Support AI™ — Tüm Hakları Saklıdır.
 </div>
 
+<hr style="margin:80px 0; border:1px solid #000;">
+
+<h1>Support AI™ – Privacy & Security Policy</h1>
+
+<div class="section">
+<p><strong>Last Updated:</strong> February 23, 2026</p>
+<p>
+This Privacy & Security Policy governs the data processing practices of Support AI™ mobile applications (iOS and Android) and web platform. By using the Service, you acknowledge and accept these terms.
+</p>
+</div>
+
+<p>
+Support AI™ is committed to protecting user data and operates in accordance with GDPR, applicable Turkish data protection laws, and international cybersecurity standards.
+</p>
+
+<h2>1. Data We Collect</h2>
+
+<p>
+Support AI™ follows a strict data minimization principle. Only the data necessary for service functionality is stored:
+</p>
+
+<p>
+– User email address (for authentication)<br>
+– Chat history created within the platform<br>
+– Optional name and optional phone number if voluntarily provided
+</p>
+
+<p>
+No behavioral profiling or unnecessary personal data collection is conducted.
+</p>
+
+<h2>2. Purpose of Processing</h2>
+
+<p>
+Data is processed exclusively for:
+</p>
+
+<p>
+– Generating AI responses<br>
+– Maintaining conversation continuity<br>
+– Managing premium subscriptions and quotas<br>
+– Detecting abuse or system manipulation<br>
+– Complying with legal obligations
+</p>
+
+<p>
+User data is not used for advertising resale or commercial marketing.
+</p>
+
+<h2>3. Data Storage & Security</h2>
+
+<p>
+Data is stored within secure cloud infrastructure. All transmissions occur via encrypted communication channels. Access is restricted through authentication and monitoring systems.
+</p>
+
+<p>
+Security measures include:
+</p>
+
+<p>
+– Encrypted transmission<br>
+– Access control systems<br>
+– Abnormal activity monitoring<br>
+– Data integrity protection mechanisms
+</p>
+
+<h2>4. Third-Party Services</h2>
+
+<p>
+User-submitted content may be transmitted to AI providers solely for processing requests. No data is sold or commercially traded.
+</p>
+
+<h2>5. Unlawful Use & Intellectual Property</h2>
+
+<p>
+Users agree not to copy, reverse engineer, scrape, or misuse the platform. In case of violations, legal actions may be initiated based on registered account details.
+</p>
+
+<h2>6. User Rights</h2>
+
+<p>
+Users may:
+</p>
+
+<p>
+– Delete their account<br>
+– Clear chat history<br>
+– Request data access<br>
+– Withdraw consent
+</p>
+
+<h2>7. Data Retention</h2>
+
+<p>
+Data is retained only as long as necessary to provide the Service. Upon deletion request, personal data is removed from active systems.
+</p>
+
+<h2>8. Policy Updates</h2>
+
+<p>
+Support AI™ may update this Policy. Continued use of the Service constitutes acceptance of updated terms.
+</p>
+
+<h2>9. Contact</h2>
+
+<p>
+Abdulsamed Kuzan<br>
+Phone: +90 538 467 39 99<br>
+Email: abdulsamed1095@gmail.com
+</p>
+
+<div class="footer">
+© 2025–2026 Support AI™ — All Rights Reserved.
+</div>
+
+</div>
 </body>
 </html>
